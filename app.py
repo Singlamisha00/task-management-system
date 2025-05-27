@@ -165,3 +165,9 @@ else:
 st.markdown("---")
 st.markdown("Developed by **Infotact Group 5** | Powered by Streamlit & scikit-learn")
 
+st.markdown(
+    """
+    <iframe src="https://ghprofile-card.vercel.app/api/Singlamisha00" height="270" width="100%" frameborder="0"></iframe>
+    """,
+    unsafe_allow_html=True
+)
